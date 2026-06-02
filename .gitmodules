@@ -1,0 +1,3 @@
+[submodule "soap-note"]
+	path = soap-note
+	url = git@github.com:PharAgents/soap-note.git
