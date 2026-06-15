@@ -1,0 +1,8 @@
+{
+  "name": "pharskills",
+  "description": "A skill set plugin for pharmacist",
+  "version": "1.0.0",
+  "author": {
+    "name": "Natapol Pornputtapong"
+  }
+}
